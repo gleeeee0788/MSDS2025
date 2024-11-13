@@ -1,0 +1,32 @@
+{
+  "entryId": "AF-Q9NZH0-F1",
+  "gene": "GPRC5B",
+  "sequenceChecksum": "3902A16C4F69C26E",
+  "sequenceVersionDate": "2004-04-13",
+  "uniprotAccession": "Q9NZH0",
+  "uniprotId": "GPC5B_HUMAN",
+  "uniprotDescription": "G-protein coupled receptor family C group 5 member B",
+  "taxId": 9606,
+  "organismScientificName": "Homo sapiens",
+  "uniprotStart": 1,
+  "uniprotEnd": 403,
+  "uniprotSequence": "MFVASERKMRAHQVLTFLLLFVITSVASENASTSRGCGLDLLPQYVSLCDLDAIWGIVVEAVAGAGALITLLLMLILLVRLPFIKEKEKKSPVGLHFLFLLGTLGLFGLTFAFIIQEDETICSVRRFLWGVLFALCFSCLLSQAWRVRRLVRHGTGPAGWQLVGLALCLMLVQVIIAVEWLVLTVLRDTRPACAYEPMDFVMALIYDMVLLVVTLGLALFTLCGKFKRWKLNGAFLLITAFLSVLIWVAWMTMYLFGNVKLQQGDAWNDPTLAITLAASGWVFVIFHAIPEIHCTLLPALQENTPNYFDTSQPRMRETAFEEDVQLPRAYMENKAFSMDEHNAALRTAGFPNGSLGKRPSGSLGKRPSAPFRSNVYQPTEMAVVLNGGTIPTAPPSHTGRHLW",
+  "modelCreatedDate": "2022-06-01",
+  "latestVersion": 4,
+  "allVersions": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "isReviewed": true,
+  "isReferenceProteome": true,
+  "cifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9NZH0-F1-model_v4.cif",
+  "bcifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9NZH0-F1-model_v4.bcif",
+  "pdbUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9NZH0-F1-model_v4.pdb",
+  "paeImageUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9NZH0-F1-predicted_aligned_error_v4.png",
+  "paeDocUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9NZH0-F1-predicted_aligned_error_v4.json",
+  "amAnnotationsUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9NZH0-F1-aa-substitutions.csv",
+  "amAnnotationsHg19Url": "https://alphafold.ebi.ac.uk/files/AF-Q9NZH0-F1-hg19.csv",
+  "amAnnotationsHg38Url": "https://alphafold.ebi.ac.uk/files/AF-Q9NZH0-F1-hg38.csv"
+}

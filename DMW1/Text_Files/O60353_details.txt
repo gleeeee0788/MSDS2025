@@ -1,0 +1,32 @@
+{
+  "entryId": "AF-O60353-F1",
+  "gene": "FZD6",
+  "sequenceChecksum": "FBFF5844D6AB0223",
+  "sequenceVersionDate": "2008-11-25",
+  "uniprotAccession": "O60353",
+  "uniprotId": "FZD6_HUMAN",
+  "uniprotDescription": "Frizzled-6",
+  "taxId": 9606,
+  "organismScientificName": "Homo sapiens",
+  "uniprotStart": 1,
+  "uniprotEnd": 706,
+  "uniprotSequence": "MEMFTFLLTCIFLPLLRGHSLFTCEPITVPRCMKMAYNMTFFPNLMGHYDQSIAAVEMEHFLPLANLECSPNIETFLCKAFVPTCIEQIHVVPPCRKLCEKVYSDCKKLIDTFGIRWPEELECDRLQYCDETVPVTFDPHTEFLGPQKKTEQVQRDIGFWCPRHLKTSGGQGYKFLGIDQCAPPCPNMYFKSDELEFAKSFIGTVSIFCLCATLFTFLTFLIDVRRFRYPERPIIYYSVCYSIVSLMYFIGFLLGDSTACNKADEKLELGDTVVLGSQNKACTVLFMLLYFFTMAGTVWWVILTITWFLAAGRKWSCEAIEQKAVWFHAVAWGTPGFLTVMLLAMNKVEGDNISGVCFVGLYDLDASRYFVLLPLCLCVFVGLSLLLAGIISLNHVRQVIQHDGRNQEKLKKFMIRIGVFSGLYLVPLVTLLGCYVYEQVNRITWEITWVSDHCRQYHIPCPYQAKAKARPELALFMIKYLMTLIVGISAVFWVGSKKTCTEWAGFFKRNRKRDPISESRRVLQESCEFFLKHNSKVKHKKKHYKPSSHKLKVISKSMGTSTGATANHGTSAVAITSHDYLGQETLTEIQTSPETSMREVKADGASTPRLREQDCGEPASPAASISRLSGEQVDGKGQAGSVSESARSEGRISPKSDITDTGLAQSNNLQVPSSSEPSSLKGSTSLLVHPVSGVRKEQGGGCHSDT",
+  "modelCreatedDate": "2022-06-01",
+  "latestVersion": 4,
+  "allVersions": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "isReviewed": true,
+  "isReferenceProteome": true,
+  "cifUrl": "https://alphafold.ebi.ac.uk/files/AF-O60353-F1-model_v4.cif",
+  "bcifUrl": "https://alphafold.ebi.ac.uk/files/AF-O60353-F1-model_v4.bcif",
+  "pdbUrl": "https://alphafold.ebi.ac.uk/files/AF-O60353-F1-model_v4.pdb",
+  "paeImageUrl": "https://alphafold.ebi.ac.uk/files/AF-O60353-F1-predicted_aligned_error_v4.png",
+  "paeDocUrl": "https://alphafold.ebi.ac.uk/files/AF-O60353-F1-predicted_aligned_error_v4.json",
+  "amAnnotationsUrl": "https://alphafold.ebi.ac.uk/files/AF-O60353-F1-aa-substitutions.csv",
+  "amAnnotationsHg19Url": "https://alphafold.ebi.ac.uk/files/AF-O60353-F1-hg19.csv",
+  "amAnnotationsHg38Url": "https://alphafold.ebi.ac.uk/files/AF-O60353-F1-hg38.csv"
+}

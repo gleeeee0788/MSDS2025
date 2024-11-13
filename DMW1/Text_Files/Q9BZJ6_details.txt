@@ -1,0 +1,32 @@
+{
+  "entryId": "AF-Q9BZJ6-F1",
+  "gene": "GPR63",
+  "sequenceChecksum": "17418CD0AE1D6C8D",
+  "sequenceVersionDate": "2001-10-01",
+  "uniprotAccession": "Q9BZJ6",
+  "uniprotId": "GPR63_HUMAN",
+  "uniprotDescription": "Probable G-protein coupled receptor 63",
+  "taxId": 9606,
+  "organismScientificName": "Homo sapiens",
+  "uniprotStart": 1,
+  "uniprotEnd": 419,
+  "uniprotSequence": "MVFSAVLTAFHTGTSNTTFVVYENTYMNITLPPPFQHPDLSPLLRYSFETMAPTGLSSLTVNSTAVPTTPAAFKSLNLPLQITLSAIMIFILFVSFLGNLVVCLMVYQKAAMRSAINILLASLAFADMLLAVLNMPFALVTILTTRWIFGKFFCRVSAMFFWLFVIEGVAILLIISIDRFLIIVQRQDKLNPYRAKVLIAVSWATSFCVAFPLAVGNPDLQIPSRAPQCVFGYTTNPGYQAYVILISLISFFIPFLVILYSFMGILNTLRHNALRIHSYPEGICLSQASKLGLMSLQRPFQMSIDMGFKTRAFTTILILFAVFIVCWAPFTTYSLVATFSKHFYYQHNFFEISTWLLWLCYLKSALNPLIYYWRIKKFHDACLDMMPKSFKFLPQLPGHTKRRIRPSAVYVCGEHRTVV",
+  "modelCreatedDate": "2022-06-01",
+  "latestVersion": 4,
+  "allVersions": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "isReviewed": true,
+  "isReferenceProteome": true,
+  "cifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9BZJ6-F1-model_v4.cif",
+  "bcifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9BZJ6-F1-model_v4.bcif",
+  "pdbUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9BZJ6-F1-model_v4.pdb",
+  "paeImageUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9BZJ6-F1-predicted_aligned_error_v4.png",
+  "paeDocUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9BZJ6-F1-predicted_aligned_error_v4.json",
+  "amAnnotationsUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9BZJ6-F1-aa-substitutions.csv",
+  "amAnnotationsHg19Url": "https://alphafold.ebi.ac.uk/files/AF-Q9BZJ6-F1-hg19.csv",
+  "amAnnotationsHg38Url": "https://alphafold.ebi.ac.uk/files/AF-Q9BZJ6-F1-hg38.csv"
+}

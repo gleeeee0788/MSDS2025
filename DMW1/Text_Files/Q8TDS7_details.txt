@@ -1,0 +1,32 @@
+{
+  "entryId": "AF-Q8TDS7-F1",
+  "gene": "MRGPRD",
+  "sequenceChecksum": "B45AB7FEB2154B40",
+  "sequenceVersionDate": "2002-06-01",
+  "uniprotAccession": "Q8TDS7",
+  "uniprotId": "MRGRD_HUMAN",
+  "uniprotDescription": "Mas-related G-protein coupled receptor member D",
+  "taxId": 9606,
+  "organismScientificName": "Homo sapiens",
+  "uniprotStart": 1,
+  "uniprotEnd": 321,
+  "uniprotSequence": "MNQTLNSSGTVESALNYSRGSTVHTAYLVLSSLAMFTCLCGMAGNSMVIWLLGFRMHRNPFCIYILNLAAADLLFLFSMASTLSLETQPLVNTTDKVHELMKRLMYFAYTVGLSLLTAISTQRCLSVLFPIWFKCHRPRHLSAWVCGLLWTLCLLMNGLTSSFCSKFLKFNEDRCFRVDMVQAALIMGVLTPVMTLSSLTLFVWVRRSSQQWRRQPTRLFVVVLASVLVFLICSLPLSIYWFVLYWLSLPPEMQVLCFSLSRLSSSVSSSANPVIYFLVGSRRSHRLPTRSLGTVLQQALREEPELEGGETPTVGTNEMGA",
+  "modelCreatedDate": "2022-06-01",
+  "latestVersion": 4,
+  "allVersions": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "isReviewed": true,
+  "isReferenceProteome": true,
+  "cifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8TDS7-F1-model_v4.cif",
+  "bcifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8TDS7-F1-model_v4.bcif",
+  "pdbUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8TDS7-F1-model_v4.pdb",
+  "paeImageUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8TDS7-F1-predicted_aligned_error_v4.png",
+  "paeDocUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8TDS7-F1-predicted_aligned_error_v4.json",
+  "amAnnotationsUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8TDS7-F1-aa-substitutions.csv",
+  "amAnnotationsHg19Url": "https://alphafold.ebi.ac.uk/files/AF-Q8TDS7-F1-hg19.csv",
+  "amAnnotationsHg38Url": "https://alphafold.ebi.ac.uk/files/AF-Q8TDS7-F1-hg38.csv"
+}

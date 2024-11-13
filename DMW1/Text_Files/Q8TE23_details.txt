@@ -1,0 +1,32 @@
+{
+  "entryId": "AF-Q8TE23-F1",
+  "gene": "TAS1R2",
+  "sequenceChecksum": "A7F73516489A05F9",
+  "sequenceVersionDate": "2006-10-17",
+  "uniprotAccession": "Q8TE23",
+  "uniprotId": "TS1R2_HUMAN",
+  "uniprotDescription": "Taste receptor type 1 member 2",
+  "taxId": 9606,
+  "organismScientificName": "Homo sapiens",
+  "uniprotStart": 1,
+  "uniprotEnd": 839,
+  "uniprotSequence": "MGPRAKTISSLFFLLWVLAEPAENSDFYLPGDYLLGGLFSLHANMKGIVHLNFLQVPMCKEYEVKVIGYNLMQAMRFAVEEINNDSSLLPGVLLGYEIVDVCYISNNVQPVLYFLAHEDNLLPIQEDYSNYISRVVAVIGPDNSESVMTVANFLSLFLLPQITYSAISDELRDKVRFPALLRTTPSADHHIEAMVQLMLHFRWNWIIVLVSSDTYGRDNGQLLGERVARRDICIAFQETLPTLQPNQNMTSEERQRLVTIVDKLQQSTARVVVVFSPDLTLYHFFNEVLRQNFTGAVWIASESWAIDPVLHNLTELRHLGTFLGITIQSVPIPGFSEFREWGPQAGPPPLSRTSQSYTCNQECDNCLNATLSFNTILRLSGERVVYSVYSAVYAVAHALHSLLGCDKSTCTKRVVYPWQLLEEIWKVNFTLLDHQIFFDPQGDVALHLEIVQWQWDRSQNPFQSVASYYPLQRQLKNIQDISWHTINNTIPMSMCSKRCQSGQKKKPVGIHVCCFECIDCLPGTFLNHTEDEYECQACPNNEWSYQSETSCFKRQLVFLEWHEAPTIAVALLAALGFLSTLAILVIFWRHFQTPIVRSAGGPMCFLMLTLLLVAYMVVPVYVGPPKVSTCLCRQALFPLCFTICISCIAVRSFQIVCAFKMASRFPRAYSYWVRYQGPYVSMAFITVLKMVIVVIGMLATGLSPTTRTDPDDPKITIVSCNPNYRNSLLFNTSLDLLLSVVGFSFAYMGKELPTNYNEAKFITLSMTFYFTSSVSLCTFMSAYSGVLVTIVDLLVTVLNLLAISLGYFGPKCYMILFYPERNTPAYFNSMIQGYTMRRD",
+  "modelCreatedDate": "2022-06-01",
+  "latestVersion": 4,
+  "allVersions": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "isReviewed": true,
+  "isReferenceProteome": true,
+  "cifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8TE23-F1-model_v4.cif",
+  "bcifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8TE23-F1-model_v4.bcif",
+  "pdbUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8TE23-F1-model_v4.pdb",
+  "paeImageUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8TE23-F1-predicted_aligned_error_v4.png",
+  "paeDocUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8TE23-F1-predicted_aligned_error_v4.json",
+  "amAnnotationsUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8TE23-F1-aa-substitutions.csv",
+  "amAnnotationsHg19Url": "https://alphafold.ebi.ac.uk/files/AF-Q8TE23-F1-hg19.csv",
+  "amAnnotationsHg38Url": "https://alphafold.ebi.ac.uk/files/AF-Q8TE23-F1-hg38.csv"
+}

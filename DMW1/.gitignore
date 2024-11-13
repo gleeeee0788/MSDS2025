@@ -1,0 +1,9 @@
+# Example .gitignore content
+__pycache__/
+.vscode/
+*.pyc
+.DS_Store
+env/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*

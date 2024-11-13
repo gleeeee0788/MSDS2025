@@ -1,0 +1,32 @@
+{
+  "entryId": "AF-Q96G91-F1",
+  "gene": "P2RY11",
+  "sequenceChecksum": "C02DF9B3B381D25E",
+  "sequenceVersionDate": "2002-05-27",
+  "uniprotAccession": "Q96G91",
+  "uniprotId": "P2Y11_HUMAN",
+  "uniprotDescription": "P2Y purinoceptor 11",
+  "taxId": 9606,
+  "organismScientificName": "Homo sapiens",
+  "uniprotStart": 1,
+  "uniprotEnd": 374,
+  "uniprotSequence": "MAANVSGAKSCPANFLAAADDKLSGFQGDFLWPILVVEFLVAVASNGLALYRFSIRKQRPWHPAVVFSVQLAVSDLLCALTLPPLAAYLYPPKHWRYGEAACRLERFLFTCNLLGSVIFITCISLNRYLGIVHPFFARSHLRPKHAWAVSAAGWVLAALLAMPTLSFSHLKRPQQGAGNCSVARPEACIKCLGTADHGLAAYRAYSLVLAGLGCGLPLLLTLAAYGALGRAVLRSPGMTVAEKLRVAALVASGVALYASSYVPYHIMRVLNVDARRRWSTRCPSFADIAQATAALELGPYVGYQVMRGLMPLAFCVHPLLYMAAVPSLGCCCRHCPGYRDSWNPEDAKSTGQALPLNATAAPKPSEPQSRELSQ",
+  "modelCreatedDate": "2022-06-01",
+  "latestVersion": 4,
+  "allVersions": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "isReviewed": true,
+  "isReferenceProteome": true,
+  "cifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q96G91-F1-model_v4.cif",
+  "bcifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q96G91-F1-model_v4.bcif",
+  "pdbUrl": "https://alphafold.ebi.ac.uk/files/AF-Q96G91-F1-model_v4.pdb",
+  "paeImageUrl": "https://alphafold.ebi.ac.uk/files/AF-Q96G91-F1-predicted_aligned_error_v4.png",
+  "paeDocUrl": "https://alphafold.ebi.ac.uk/files/AF-Q96G91-F1-predicted_aligned_error_v4.json",
+  "amAnnotationsUrl": "https://alphafold.ebi.ac.uk/files/AF-Q96G91-F1-aa-substitutions.csv",
+  "amAnnotationsHg19Url": "https://alphafold.ebi.ac.uk/files/AF-Q96G91-F1-hg19.csv",
+  "amAnnotationsHg38Url": "https://alphafold.ebi.ac.uk/files/AF-Q96G91-F1-hg38.csv"
+}

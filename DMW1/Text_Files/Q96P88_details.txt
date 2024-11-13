@@ -1,0 +1,32 @@
+{
+  "entryId": "AF-Q96P88-F1",
+  "gene": "GNRHR2",
+  "sequenceChecksum": "CB8E31DABE8030FC",
+  "sequenceVersionDate": "2012-10-03",
+  "uniprotAccession": "Q96P88",
+  "uniprotId": "GNRR2_HUMAN",
+  "uniprotDescription": "Putative gonadotropin-releasing hormone II receptor",
+  "taxId": 9606,
+  "organismScientificName": "Homo sapiens",
+  "uniprotStart": 1,
+  "uniprotEnd": 292,
+  "uniprotSequence": "MSAGNGTPWDATWNITVQWLAVDIACRTLMFLKLMATYSAAFLPVVIGLDRQAAVLNPLGSRSGVRKLLGAAWGLSFLLAFPQLFLFHTVHCAGPVPFTQCVTKGSFKAQWQETTYNLFTFCCLFLLPLTAMAICYSRIVLSVSRPQTRKGSHAPAGEFALPRSFDNCPRVRLRALRLALLILLTFILCWTPYYLLGMWYWFSPTMLTEVPPSLSHILFLLGLLNAPLDPLLYGAFTLGCRRGHQELSIDSSKEGSGRMLQEEIHAFRQLEVQKTVTSRRAGETKGISITSI",
+  "modelCreatedDate": "2022-06-01",
+  "latestVersion": 4,
+  "allVersions": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "isReviewed": true,
+  "isReferenceProteome": true,
+  "cifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q96P88-F1-model_v4.cif",
+  "bcifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q96P88-F1-model_v4.bcif",
+  "pdbUrl": "https://alphafold.ebi.ac.uk/files/AF-Q96P88-F1-model_v4.pdb",
+  "paeImageUrl": "https://alphafold.ebi.ac.uk/files/AF-Q96P88-F1-predicted_aligned_error_v4.png",
+  "paeDocUrl": "https://alphafold.ebi.ac.uk/files/AF-Q96P88-F1-predicted_aligned_error_v4.json",
+  "amAnnotationsUrl": "https://alphafold.ebi.ac.uk/files/AF-Q96P88-F1-aa-substitutions.csv",
+  "amAnnotationsHg19Url": null,
+  "amAnnotationsHg38Url": null
+}

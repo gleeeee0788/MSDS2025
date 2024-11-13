@@ -1,0 +1,32 @@
+{
+  "entryId": "AF-Q6W5P4-F1",
+  "gene": "NPSR1",
+  "sequenceChecksum": "EA084B381562353D",
+  "sequenceVersionDate": "2004-07-05",
+  "uniprotAccession": "Q6W5P4",
+  "uniprotId": "NPSR1_HUMAN",
+  "uniprotDescription": "Neuropeptide S receptor",
+  "taxId": 9606,
+  "organismScientificName": "Homo sapiens",
+  "uniprotStart": 1,
+  "uniprotEnd": 371,
+  "uniprotSequence": "MPANFTEGSFDSSGTGQTLDSSPVACTETVTFTEVVEGKEWGSFYYSFKTEQLITLWVLFVFTIVGNSVVLFSTWRRKKKSRMTFFVTQLAITDSFTGLVNILTDINWRFTGDFTAPDLVCRVVRYLQVVLLYASTYVLVSLSIDRYHAIVYPMKFLQGEKQARVLIVIAWSLSFLFSIPTLIIFGKRTLSNGEVQCWALWPDDSYWTPYMTIVAFLVYFIPLTIISIMYGIVIRTIWIKSKTYETVISNCSDGKLCSSYNRGLISKAKIKAIKYSIIIILAFICCWSPYFLFDILDNFNLLPDTQERFYASVIIQNLPALNSAINPLIYCVFSSSISFPCREQRSQDSRMTFRERTERHEMQILSKPEFI",
+  "modelCreatedDate": "2022-06-01",
+  "latestVersion": 4,
+  "allVersions": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "isReviewed": true,
+  "isReferenceProteome": true,
+  "cifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q6W5P4-F1-model_v4.cif",
+  "bcifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q6W5P4-F1-model_v4.bcif",
+  "pdbUrl": "https://alphafold.ebi.ac.uk/files/AF-Q6W5P4-F1-model_v4.pdb",
+  "paeImageUrl": "https://alphafold.ebi.ac.uk/files/AF-Q6W5P4-F1-predicted_aligned_error_v4.png",
+  "paeDocUrl": "https://alphafold.ebi.ac.uk/files/AF-Q6W5P4-F1-predicted_aligned_error_v4.json",
+  "amAnnotationsUrl": "https://alphafold.ebi.ac.uk/files/AF-Q6W5P4-F1-aa-substitutions.csv",
+  "amAnnotationsHg19Url": "https://alphafold.ebi.ac.uk/files/AF-Q6W5P4-F1-hg19.csv",
+  "amAnnotationsHg38Url": "https://alphafold.ebi.ac.uk/files/AF-Q6W5P4-F1-hg38.csv"
+}

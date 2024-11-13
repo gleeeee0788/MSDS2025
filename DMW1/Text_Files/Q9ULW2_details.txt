@@ -1,0 +1,32 @@
+{
+  "entryId": "AF-Q9ULW2-F1",
+  "gene": "FZD10",
+  "sequenceChecksum": "E9B7E51FA7C87B26",
+  "sequenceVersionDate": "2000-05-01",
+  "uniprotAccession": "Q9ULW2",
+  "uniprotId": "FZD10_HUMAN",
+  "uniprotDescription": "Frizzled-10",
+  "taxId": 9606,
+  "organismScientificName": "Homo sapiens",
+  "uniprotStart": 1,
+  "uniprotEnd": 581,
+  "uniprotSequence": "MQRPGPRLWLVLQVMGSCAAISSMDMERPGDGKCQPIEIPMCKDIGYNMTRMPNLMGHENQREAAIQLHEFAPLVEYGCHGHLRFFLCSLYAPMCTEQVSTPIPACRVMCEQARLKCSPIMEQFNFKWPDSLDCRKLPNKNDPNYLCMEAPNNGSDEPTRGSGLFPPLFRPQRPHSAQEHPLKDGGPGRGGCDNPGKFHHVEKSASCAPLCTPGVDVYWSREDKRFAVVWLAIWAVLCFFSSAFTVLTFLIDPARFRYPERPIIFLSMCYCVYSVGYLIRLFAGAESIACDRDSGQLYVIQEGLESTGCTLVFLVLYYFGMASSLWWVVLTLTWFLAAGKKWGHEAIEANSSYFHLAAWAIPAVKTILILVMRRVAGDELTGVCYVGSMDVNALTGFVLIPLACYLVIGTSFILSGFVALFHIRRVMKTGGENTDKLEKLMVRIGLFSVLYTVPATCVIACYFYERLNMDYWKILAAQHKCKMNNQTKTLDCLMAASIPAVEIFMVKIFMLLVVGITSGMWIWTSKTLQSWQQVCSRRLKKKSRRKPASVITSGGIYKKAQHPQKTHHGKYEIPAQSPTCV",
+  "modelCreatedDate": "2022-06-01",
+  "latestVersion": 4,
+  "allVersions": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "isReviewed": true,
+  "isReferenceProteome": true,
+  "cifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9ULW2-F1-model_v4.cif",
+  "bcifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9ULW2-F1-model_v4.bcif",
+  "pdbUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9ULW2-F1-model_v4.pdb",
+  "paeImageUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9ULW2-F1-predicted_aligned_error_v4.png",
+  "paeDocUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9ULW2-F1-predicted_aligned_error_v4.json",
+  "amAnnotationsUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9ULW2-F1-aa-substitutions.csv",
+  "amAnnotationsHg19Url": "https://alphafold.ebi.ac.uk/files/AF-Q9ULW2-F1-hg19.csv",
+  "amAnnotationsHg38Url": "https://alphafold.ebi.ac.uk/files/AF-Q9ULW2-F1-hg38.csv"
+}

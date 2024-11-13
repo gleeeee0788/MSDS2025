@@ -1,0 +1,32 @@
+{
+  "entryId": "AF-P18825-F1",
+  "gene": "ADRA2C",
+  "sequenceChecksum": "E1EF9CA21E7F6EDA",
+  "sequenceVersionDate": "2002-02-11",
+  "uniprotAccession": "P18825",
+  "uniprotId": "ADA2C_HUMAN",
+  "uniprotDescription": "Alpha-2C adrenergic receptor",
+  "taxId": 9606,
+  "organismScientificName": "Homo sapiens",
+  "uniprotStart": 1,
+  "uniprotEnd": 462,
+  "uniprotSequence": "MASPALAAALAVAAAAGPNASGAGERGSGGVANASGASWGPPRGQYSAGAVAGLAAVVGFLIVFTVVGNVLVVIAVLTSRALRAPQNLFLVSLASADILVATLVMPFSLANELMAYWYFGQVWCGVYLALDVLFCTSSIVHLCAISLDRYWSVTQAVEYNLKRTPRRVKATIVAVWLISAVISFPPLVSLYRQPDGAAYPQCGLNDETWYILSSCIGSFFAPCLIMGLVYARIYRVAKLRTRTLSEKRAPVGPDGASPTTENGLGAAAGAGENGHCAPPPADVEPDESSAAAERRRRRGALRRGGRRRAGAEGGAGGADGQGAGPGAAESGALTASRSPGPGGRLSRASSRSVEFFLSRRRRARSSVCRRKVAQAREKRFTFVLAVVMGVFVLCWFPFFFSYSLYGICREACQVPGPLFKFFFWIGYCNSSLNPVIYTVFNQDFRRSFKHILFRRRRRGFRQ",
+  "modelCreatedDate": "2022-06-01",
+  "latestVersion": 4,
+  "allVersions": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "isReviewed": true,
+  "isReferenceProteome": true,
+  "cifUrl": "https://alphafold.ebi.ac.uk/files/AF-P18825-F1-model_v4.cif",
+  "bcifUrl": "https://alphafold.ebi.ac.uk/files/AF-P18825-F1-model_v4.bcif",
+  "pdbUrl": "https://alphafold.ebi.ac.uk/files/AF-P18825-F1-model_v4.pdb",
+  "paeImageUrl": "https://alphafold.ebi.ac.uk/files/AF-P18825-F1-predicted_aligned_error_v4.png",
+  "paeDocUrl": "https://alphafold.ebi.ac.uk/files/AF-P18825-F1-predicted_aligned_error_v4.json",
+  "amAnnotationsUrl": "https://alphafold.ebi.ac.uk/files/AF-P18825-F1-aa-substitutions.csv",
+  "amAnnotationsHg19Url": "https://alphafold.ebi.ac.uk/files/AF-P18825-F1-hg19.csv",
+  "amAnnotationsHg38Url": "https://alphafold.ebi.ac.uk/files/AF-P18825-F1-hg38.csv"
+}

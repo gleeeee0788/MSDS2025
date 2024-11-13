@@ -1,0 +1,32 @@
+{
+  "entryId": "AF-Q6DWJ6-F1",
+  "gene": "GPR139",
+  "sequenceChecksum": "CF1088FCE5C84F85",
+  "sequenceVersionDate": "2004-08-16",
+  "uniprotAccession": "Q6DWJ6",
+  "uniprotId": "GP139_HUMAN",
+  "uniprotDescription": "Probable G-protein coupled receptor 139",
+  "taxId": 9606,
+  "organismScientificName": "Homo sapiens",
+  "uniprotStart": 1,
+  "uniprotEnd": 353,
+  "uniprotSequence": "MEHTHAHLAANSSLSWWSPGSACGLGFVPVVYYSLLLCLGLPANILTVIILSQLVARRQKSSYNYLLALAAADILVLFFIVFVDFLLEDFILNMQMPQVPDKIIEVLEFSSIHTSIWITVPLTIDRYIAVCHPLKYHTVSYPARTRKVIVSVYITCFLTSIPYYWWPNIWTEDYISTSVHHVLIWIHCFTVYLVPCSIFFILNSIIVYKLRRKSNFRLRGYSTGKTTAILFTITSIFATLWAPRIIMILYHLYGAPIQNRWLVHIMSDIANMLALLNTAINFFLYCFISKRFRTMAAATLKAFFKCQKQPVQFYTNHNFSITSSPWISPANSHCIKMLVYQYDKNGKPIKVSP",
+  "modelCreatedDate": "2022-06-01",
+  "latestVersion": 4,
+  "allVersions": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "isReviewed": true,
+  "isReferenceProteome": true,
+  "cifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q6DWJ6-F1-model_v4.cif",
+  "bcifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q6DWJ6-F1-model_v4.bcif",
+  "pdbUrl": "https://alphafold.ebi.ac.uk/files/AF-Q6DWJ6-F1-model_v4.pdb",
+  "paeImageUrl": "https://alphafold.ebi.ac.uk/files/AF-Q6DWJ6-F1-predicted_aligned_error_v4.png",
+  "paeDocUrl": "https://alphafold.ebi.ac.uk/files/AF-Q6DWJ6-F1-predicted_aligned_error_v4.json",
+  "amAnnotationsUrl": "https://alphafold.ebi.ac.uk/files/AF-Q6DWJ6-F1-aa-substitutions.csv",
+  "amAnnotationsHg19Url": "https://alphafold.ebi.ac.uk/files/AF-Q6DWJ6-F1-hg19.csv",
+  "amAnnotationsHg38Url": "https://alphafold.ebi.ac.uk/files/AF-Q6DWJ6-F1-hg38.csv"
+}

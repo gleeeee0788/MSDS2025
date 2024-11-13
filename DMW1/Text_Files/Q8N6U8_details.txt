@@ -1,0 +1,32 @@
+{
+  "entryId": "AF-Q8N6U8-F1",
+  "gene": "GPR161",
+  "sequenceChecksum": "FC7D1AC0894DC3F3",
+  "sequenceVersionDate": "2002-10-01",
+  "uniprotAccession": "Q8N6U8",
+  "uniprotId": "GP161_HUMAN",
+  "uniprotDescription": "G-protein coupled receptor 161",
+  "taxId": 9606,
+  "organismScientificName": "Homo sapiens",
+  "uniprotStart": 1,
+  "uniprotEnd": 529,
+  "uniprotSequence": "MSLNSSLSCRKELSNLTEEEGGEGGVIITQFIAIIVITIFVCLGNLVIVVTLYKKSYLLTLSNKFVFSLTLSNFLLSVLVLPFVVTSSIRREWIFGVVWCNFSALLYLLISSASMLTLGVIAIDRYYAVLYPMVYPMKITGNRAVMALVYIWLHSLIGCLPPLFGWSSVEFDEFKWMCVAAWHREPGYTAFWQIWCALFPFLVMLVCYGFIFRVARVKARKVHCGTVVIVEEDAQRTGRKNSSTSTSSSGSRRNAFQGVVYSANQCKALITILVVLGAFMVTWGPYMVVIASEALWGKSSVSPSLETWATWLSFASAVCHPLIYGLWNKTVRKELLGMCFGDRYYREPFVQRQRTSRLFSISNRITDLGLSPHLTALMAGGQPLGHSSSTGDTGFSCSQDSGTDMMLLEDYTSDDNPPSHCTCPPKRRSSVTFEDEVEQIKEAAKNSILHVKAEVHKSLDSYAASLAKAIEAEAKINLFGEEALPGVLVTARTVPGGGFGGRRGSRTLVSQRLQLQSIEEGDVLAAEQR",
+  "modelCreatedDate": "2022-06-01",
+  "latestVersion": 4,
+  "allVersions": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "isReviewed": true,
+  "isReferenceProteome": true,
+  "cifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8N6U8-F1-model_v4.cif",
+  "bcifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8N6U8-F1-model_v4.bcif",
+  "pdbUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8N6U8-F1-model_v4.pdb",
+  "paeImageUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8N6U8-F1-predicted_aligned_error_v4.png",
+  "paeDocUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8N6U8-F1-predicted_aligned_error_v4.json",
+  "amAnnotationsUrl": "https://alphafold.ebi.ac.uk/files/AF-Q8N6U8-F1-aa-substitutions.csv",
+  "amAnnotationsHg19Url": "https://alphafold.ebi.ac.uk/files/AF-Q8N6U8-F1-hg19.csv",
+  "amAnnotationsHg38Url": "https://alphafold.ebi.ac.uk/files/AF-Q8N6U8-F1-hg38.csv"
+}

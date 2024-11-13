@@ -1,0 +1,32 @@
+{
+  "entryId": "AF-Q9NYW0-F1",
+  "gene": "TAS2R10",
+  "sequenceChecksum": "058DD69A55AE71C6",
+  "sequenceVersionDate": "2010-11-02",
+  "uniprotAccession": "Q9NYW0",
+  "uniprotId": "T2R10_HUMAN",
+  "uniprotDescription": "Taste receptor type 2 member 10",
+  "taxId": 9606,
+  "organismScientificName": "Homo sapiens",
+  "uniprotStart": 1,
+  "uniprotEnd": 307,
+  "uniprotSequence": "MLRVVEGIFIFVVVSESVFGVLGNGFIGLVNCIDCAKNKLSTIGFILTGLAISRIFLIWIIITDGFIQIFSPNIYASGNLIEYISYFWVIGNQSSMWFATSLSIFYFLKIANFSNYIFLWLKSRTNMVLPFMIVFLLISSLLNFAYIAKILNDYKTKNDTVWDLNMYKSEYFIKQILLNLGVIFFFTLSLITCIFLIISLWRHNRQMQSNVTGLRDSNTEAHVKAMKVLISFIILFILYFIGMAIEISCFTVRENKLLLMFGMTTTAIYPWGHSFILILGNSKLKQASLRVLQQLKCCEKRKNLRVT",
+  "modelCreatedDate": "2022-06-01",
+  "latestVersion": 4,
+  "allVersions": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "isReviewed": true,
+  "isReferenceProteome": true,
+  "cifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9NYW0-F1-model_v4.cif",
+  "bcifUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9NYW0-F1-model_v4.bcif",
+  "pdbUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9NYW0-F1-model_v4.pdb",
+  "paeImageUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9NYW0-F1-predicted_aligned_error_v4.png",
+  "paeDocUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9NYW0-F1-predicted_aligned_error_v4.json",
+  "amAnnotationsUrl": "https://alphafold.ebi.ac.uk/files/AF-Q9NYW0-F1-aa-substitutions.csv",
+  "amAnnotationsHg19Url": "https://alphafold.ebi.ac.uk/files/AF-Q9NYW0-F1-hg19.csv",
+  "amAnnotationsHg38Url": "https://alphafold.ebi.ac.uk/files/AF-Q9NYW0-F1-hg38.csv"
+}
